@@ -1,0 +1,17 @@
+{
+  "slug": "buzz",
+  "clean_cover": "assets/book-cover.png",
+  "cover_size": { "width": 1024, "height": 1536 },
+  "publisher": "Graphene Lab",
+  "year": "2026",
+  "languages": {
+    "EN": {
+      "title": "The Man Who Rings the Buzzer",
+      "subtitle": "Advanced Sales Tactics and Strategies",
+      "author": "Andrea Bruno",
+      "color": "#FFFFFF",
+      "genre": "Business / Sales & Marketing",
+      "isbn": ""
+    }
+  }
+}

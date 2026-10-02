@@ -1,0 +1,16 @@
+# Exclude the internal line-guide file from the published repository
+book lineeguide.md
+
+# Internal authoring brief (not part of the book)
+_AUTHOR_BRIEF.md
+
+# Generated output (regenerable with DistroBook prepare)
+publish/
+
+# DistroBook run logs
+logs/
+
+# OS / editor noise
+Thumbs.db
+.DS_Store
+*.tmp
