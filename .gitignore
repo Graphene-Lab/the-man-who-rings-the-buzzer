@@ -3,6 +3,7 @@ book lineeguide.md
 
 # Internal authoring brief (not part of the book)
 _AUTHOR_BRIEF.md
+_TRANSLATE_BRIEF.md
 
 # Generated output (regenerable with DistroBook prepare)
 publish/

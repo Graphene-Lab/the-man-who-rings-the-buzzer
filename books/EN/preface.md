@@ -83,6 +83,7 @@ If, after reading, you want to carry this product to real companies and be suppo
 while you do it, there is a place for you.
 
 ![Become an AgentBridge seller](assets/qr-telegram.png)
+
 "Scan to join: become a certified AgentBridge seller."
 
 Now go and ring something.

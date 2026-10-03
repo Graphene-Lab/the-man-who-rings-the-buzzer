@@ -12,6 +12,46 @@
       "color": "#FFFFFF",
       "genre": "Business / Sales & Marketing",
       "isbn": ""
+    },
+    "IT": {
+      "title": "L'Uomo che suona i citofoni",
+      "subtitle": "Tattiche e strategie avanzate di vendita",
+      "author": "Andrea Bruno",
+      "color": "#FFFFFF",
+      "genre": "Business / Vendite e Marketing",
+      "isbn": ""
+    },
+    "FR": {
+      "title": "L'Homme qui sonne à l'interphone",
+      "subtitle": "Tactiques et stratégies de vente avancées",
+      "author": "Andrea Bruno",
+      "color": "#FFFFFF",
+      "genre": "Entreprises / Ventes et Marketing",
+      "isbn": ""
+    },
+    "ES": {
+      "title": "El hombre que toca el timbre",
+      "subtitle": "Tácticas y estrategias avanzadas de ventas",
+      "author": "Andrea Bruno",
+      "color": "#FFFFFF",
+      "genre": "Negocios / Ventas y Marketing",
+      "isbn": ""
+    },
+    "DE": {
+      "title": "Der Mann, der klingelt",
+      "subtitle": "Fortgeschrittene Verkaufstaktiken und -strategien",
+      "author": "Andrea Bruno",
+      "color": "#FFFFFF",
+      "genre": "Wirtschaft / Vertrieb und Marketing",
+      "isbn": ""
+    },
+    "RU": {
+      "title": "Человек, который звонит в домофон",
+      "subtitle": "Продвинутые тактики и стратегии продаж",
+      "author": "Andrea Bruno",
+      "color": "#FFFFFF",
+      "genre": "Бизнес / Продажи и маркетинг",
+      "isbn": ""
     }
   }
 }

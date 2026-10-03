@@ -111,6 +111,7 @@ the proposals, the reports, and the follow-ups you have read about across this
 book — there is a place to start.
 
 ![Become an AgentBridge seller](assets/qr-telegram.png)
+
 "Scan to join: become a certified AgentBridge seller."
 
 Go and ring buzzers. Show up prepared. Treat the person at the intercom like a
