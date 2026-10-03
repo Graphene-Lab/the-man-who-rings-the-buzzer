@@ -87,10 +87,23 @@ Learn more: https://github.com/Graphene-Lab/AgentBridge
 
 ---
 
-## Languages
+## Download
 
-- **English** — available now.
-- Italian, French, Spanish, German, Russian — coming soon.
+The book is available in six languages. The PDF opens in your browser (or saves with a
+right-click); the EPUB is for e-readers and reading apps (Apple Books, Kobo, Kindle via
+conversion, Calibre, and so on).
+
+| Language | PDF | EPUB |
+|----------|-----|------|
+| English | [Download PDF](https://github.com/Graphene-Lab/the-man-who-rings-the-buzzer/raw/main/downloads/The-Man-Who-Rings-the-Buzzer-EN.pdf) | [Download EPUB](https://github.com/Graphene-Lab/the-man-who-rings-the-buzzer/raw/main/downloads/The-Man-Who-Rings-the-Buzzer-EN.epub) |
+| Italiano | [Download PDF](https://github.com/Graphene-Lab/the-man-who-rings-the-buzzer/raw/main/downloads/The-Man-Who-Rings-the-Buzzer-IT.pdf) | [Download EPUB](https://github.com/Graphene-Lab/the-man-who-rings-the-buzzer/raw/main/downloads/The-Man-Who-Rings-the-Buzzer-IT.epub) |
+| Français | [Download PDF](https://github.com/Graphene-Lab/the-man-who-rings-the-buzzer/raw/main/downloads/The-Man-Who-Rings-the-Buzzer-FR.pdf) | [Download EPUB](https://github.com/Graphene-Lab/the-man-who-rings-the-buzzer/raw/main/downloads/The-Man-Who-Rings-the-Buzzer-FR.epub) |
+| Español | [Download PDF](https://github.com/Graphene-Lab/the-man-who-rings-the-buzzer/raw/main/downloads/The-Man-Who-Rings-the-Buzzer-ES.pdf) | [Download EPUB](https://github.com/Graphene-Lab/the-man-who-rings-the-buzzer/raw/main/downloads/The-Man-Who-Rings-the-Buzzer-ES.epub) |
+| Deutsch | [Download PDF](https://github.com/Graphene-Lab/the-man-who-rings-the-buzzer/raw/main/downloads/The-Man-Who-Rings-the-Buzzer-DE.pdf) | [Download EPUB](https://github.com/Graphene-Lab/the-man-who-rings-the-buzzer/raw/main/downloads/The-Man-Who-Rings-the-Buzzer-DE.epub) |
+| Русский | [Download PDF](https://github.com/Graphene-Lab/the-man-who-rings-the-buzzer/raw/main/downloads/The-Man-Who-Rings-the-Buzzer-RU.pdf) | [Download EPUB](https://github.com/Graphene-Lab/the-man-who-rings-the-buzzer/raw/main/downloads/The-Man-Who-Rings-the-Buzzer-RU.epub) |
+
+A print-ready PDF (with bleed and print margins) is also generated for each language by
+DistroBook; ask if you need it for print-on-demand.
 
 ---
 
